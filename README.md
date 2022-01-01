@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/nft-preview-card)
-- Live Site URL: [Add live site URL here](https://webster-nft-card-preview.netlify.app)
+- Solution URL: [GitHub Repo](https://github.com/nft-preview-card)
+- Live Site URL: [Live Site](https://webster-nft-card-preview.netlify.app)
 
 ## My process
 
